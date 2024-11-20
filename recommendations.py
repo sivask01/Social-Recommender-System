@@ -13,8 +13,3 @@ def get_top_n_recommendations(model, reviews_df, user_id, n=5):
     top_recommendations = sorted(predictions, key=lambda x: x.est, reverse=True)[:n]
     return top_recommendations
 
-# # Example usage
-# user_id = 123  # Replace with a valid user ID
-# top_recommendations = get_top_n_recommendations(user_id)
-# for rec in top_recommendations:
-#     print(f"Item ID: {rec.iid}, Predicted Rating: {rec.est}")
