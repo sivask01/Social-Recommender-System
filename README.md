@@ -49,4 +49,24 @@ All training files are stored in the `Files` folder. These files include:
 
 Please ensure that the `Files` folder is intact when running the system, as it contains the necessary files for loading and processing data.
 
+## Usage
+Once the app is running, you can interact with the recommendation system by selecting different models and receiving personalized item recommendations based on your preferences.
+You can explore different sections of the application, including "Recommendations" for model selection and "Analysis" for insights.
+
+
+# Deployment
+
+The project has been successfully deployed on Streamlit Cloud, and the application is live. 
+
+### Accessing the Deployed Application
+- **Link to Deployed Application**: social-recommender-system-sk.streamlit.app
+
+The deployed version offers the same functionality as the local version, with users able to interact with the recommendation system through the UI and get real-time personalized item recommendations.
+
+## Acknowledgements
+
+- Thank you to all contributors and resources that made this project possible.
+- This project was developed as part of Course project CMPE-256(Advanced Data Mining) and a personal learning initiative to enhance skills in building scalable recommendation systems.
+
+
 
