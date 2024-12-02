@@ -1,4 +1,4 @@
-# Personalized Recommendation System
+# Advanced Social Recommendation System
 
 This project implements an advanced recommendation system that integrates time-aware collaborative filtering, sentiment analysis, graph-based analysis, and a hybrid model for more accurate and personalized item recommendations.
 
