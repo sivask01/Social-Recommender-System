@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+networkx
+node2vec
+matplotlib
+streamlit
+requests
